@@ -1,0 +1,5 @@
+### Uniform Search:
+  - Uniform search, also known as blind search, is a type of search algorithm that explores the problem space without using any knowledge about the problem domain. In uniform search, each possible path from the initial state to the goal state is considered equally, without any preference or bias. Examples of uniform search algorithms include breadth-first search, depth-first search, and iterative deepening search.
+
+### Informed Search:
+  - Informed search, also known as heuristic search, is a type of search algorithm that uses domain-specific knowledge to guide the search and improve its efficiency. In informed search, a heuristic function is used to estimate the distance or cost from the current state to the goal state. The heuristic function provides a measure of the "goodness" of each possible path, and the algorithm prioritizes the paths that are most likely to lead to the goal state. Examples of informed search algorithms include A* search, Best-First search, and Hill Climbing.
