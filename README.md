@@ -2,7 +2,7 @@
 All important thing about AI
 ## [TOPICS](https://github.com/prashantjagtap2909/Artificial-Intelligence)
 
-Topic 1
+### Topic 1
   - [Introduction to AI](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%201/Introduction%20to%20AI.md)
   - [AI problems](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%201/AI%20problems.md)
   - [History of AI](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%201/History%20of%20AI.md)
@@ -13,7 +13,7 @@ Topic 1
   - [PEAS](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%201/PEAS.md)
   
   
-Topic 2
+### Topic 2
   - [Problem solving](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%202/Problem%20solving.md)
   - [Problem formulation](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%202/Problem%20formulation.md)
   - [State space search](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%202/State%20space%20search.md)
