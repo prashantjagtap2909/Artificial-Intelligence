@@ -41,4 +41,4 @@ All important thing about AI
 
 ### Topic 5 
 
-[Topic 6 - will update soon]()
+### Topic 6
