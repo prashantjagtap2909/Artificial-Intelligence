@@ -47,6 +47,16 @@ All important thing about AI
 
 
 ### Topic 4 
+  - [Propositional logic](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/Propositional%20logic.md)
+  - [Wumpus world problem](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/Wumpus%20world.md)
+  - [First order logic](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/First%20order%20logic.md)
+  - [Second order logic](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/Second%20order%20logic.md)
+  - [Third order logic]https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/Third%20order%20logic.md)
+  - [Higher order logic](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/Higher%20order%20logic.md)
+  - [Forward Chaining](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/Forward%20Chaining.md)
+  - [Backward Chaining](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/Backward%20Chaining.md)
+  - [WalkSAT algorithm](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/Walksat%20algorithm.md)
+  - [DPLL algorithm](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/DPLL%20algorithm.md)
 
 ### Topic 5 
 
