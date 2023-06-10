@@ -36,6 +36,15 @@ All important thing about AI
   
   
 ### Topic 3
+  - [Min- Max algorithm](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%203/Min-max%20algorithm.md)
+  - [Working of Min-max](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%203/Working%20of%20min-max.md)
+  - [Alpha-beta pruning](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%203/alpha-beta%20pruning.md)
+  - [Working of alpha beta pruning](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%203/Working%20of%20alpha-beta%20pruning.md)
+  - [Game and Gametree](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%203/Game%20and%20game%20tree.md)
+  - [Constraint Satisfaction Problem](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%203/Constraint%20Satisfaction%20problem.md)
+  - [Cript Arithmetic problem](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%203/Cript%20arithmetic%20problem.md)
+  
+
 
 ### Topic 4 
 
