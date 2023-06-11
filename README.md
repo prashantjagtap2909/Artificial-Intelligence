@@ -59,5 +59,14 @@ All important thing about AI
   - [DPLL algorithm](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%204/DPLL%20algorithm.md)
 
 ### Topic 5 
-
+  - [Predicate logic](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Predicate%20logic.md)
+  - [Knowledge Engineering](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Knowledge%20engineering.md)
+  - [Event Calculus](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Event%20Calculus.md)
+  - [Declarative vs Procedural knowledge](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Declarative%20vs%20Procedural%20knowledge.md)
+  - [Non-monotonic reasoning](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Non-monotonic%20reasoning.md)
+  - [Ontological engineering](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Ontological%20engineering.md)
+  - [Skolemization](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Skolemization.md)
+  - [Unification](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Unification.md)
+  - [Theory of Beliefs](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Theory%20of%20beliefs.md)
+  - [Truth maintenance table](https://github.com/prashantjagtap2909/Artificial-Intelligence/blob/main/Topics/Topic%205/Truth%20maintenance%20table.md)
 ### Topic 6
