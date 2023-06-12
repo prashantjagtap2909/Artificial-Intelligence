@@ -1,5 +1,5 @@
 # Artificial-Intelligence
-All important thing about AI
+All important things about AI
 ## [TOPICS](https://github.com/prashantjagtap2909/Artificial-Intelligence)
 
 ### Topic 1
