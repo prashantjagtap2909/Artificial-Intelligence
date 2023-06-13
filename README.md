@@ -1,5 +1,5 @@
 # Artificial-Intelligence
-All important things about AI specially university exam.
+All important things about AI specially helps you in university exam.
 ## [TOPICS](https://github.com/prashantjagtap2909/Artificial-Intelligence)
 
 ### Topic 1
