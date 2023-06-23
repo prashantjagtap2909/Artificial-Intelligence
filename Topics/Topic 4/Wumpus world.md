@@ -48,7 +48,7 @@
 ##### Actuators:
 - Left turn,
 - Right turn
-Move forward
+- Move forward
 - Grab
 - Release
 - Shoot.
