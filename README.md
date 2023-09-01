@@ -1,4 +1,4 @@
-# Artificial-Intelligence
+# Artificial-Intelligence [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2FArtificial-Intelligence&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 All important things about AI specially helps you in university exam.
 ## [TOPICS](https://github.com/prashantjagtap2909/Artificial-Intelligence)
 
